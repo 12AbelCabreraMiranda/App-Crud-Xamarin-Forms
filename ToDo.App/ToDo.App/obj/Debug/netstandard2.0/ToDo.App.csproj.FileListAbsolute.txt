@@ -1,0 +1,15 @@
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\ToDo.App\ToDo.App\ToDo.App\bin\Debug\netstandard2.0\ToDo.App.deps.json
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\ToDo.App\ToDo.App\ToDo.App\bin\Debug\netstandard2.0\ToDo.App.dll
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\ToDo.App\ToDo.App\ToDo.App\bin\Debug\netstandard2.0\ref\ToDo.App.dll
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\ToDo.App\ToDo.App\ToDo.App\bin\Debug\netstandard2.0\ToDo.App.pdb
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.AssemblyInfoInputs.cache
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.AssemblyInfo.cs
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.dll
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ref\ToDo.App.dll
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.pdb
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\Views\AddPage.xaml.g.cs
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.csprojAssemblyReference.cache
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\ToDo.App.csproj.CoreCompileInputs.cache
+C:\Users\Abel\Documents\Visual Studio 2019\XamarinForms\ToDo.App\ToDo.App\ToDo.App\obj\Debug\netstandard2.0\XamlC.stamp

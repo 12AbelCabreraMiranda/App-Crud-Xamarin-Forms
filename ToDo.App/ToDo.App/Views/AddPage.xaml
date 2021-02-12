@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             Title="Agregar Tarea"
+             x:Class="ToDo.App.Views.AddPage">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem
+            Clicked="BtnGuardar_Clicked"
+            x:Name="BtnGuardar"
+            Text="Guardar"/>
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <StackLayout
+            Padding="15">
+            <Label
+                TextColor="{StaticResource colorPrimary}"
+                FontSize="Medium"
+                Text="Nombre"/>
+            <Entry
+                x:Name="nombre"/>
+            
+            <Label 
+                TextColor="{StaticResource colorPrimary}"
+                FontSize="Medium"
+                Text="Descripción"/>
+            <Editor
+                x:Name="descripcion"
+                HeightRequest="200"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
